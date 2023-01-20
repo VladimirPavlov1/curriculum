@@ -1,0 +1,6 @@
+[
+    {"id":"1","text":"Вивчити основи реакт","complited":false},
+    {"id":"2","text":"Розібратися з React Router","complited":false},
+    {"id":"3","text":"Пережити Redux","complited":false},
+    {"id":"4","text":"Здати проект по React","complited":false}
+]
